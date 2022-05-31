@@ -1,0 +1,26 @@
+.search {
+    max-width: 766px;
+    height: 92px;
+    background-color: #fff;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.form {
+    display: flex;
+    gap: 20px;
+}
+
+.searchImg {
+    width: 48px;
+    height: 48px;
+}
+.searchImg:hover {
+    cursor: pointer;
+}
+
+
+

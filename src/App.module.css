@@ -1,0 +1,20 @@
+.primaryBtn {
+  font-size: 16px;
+  font-weight: 600;
+  padding: 8px 24px;
+  color: white;
+  background: #58A4B0;
+  border: none;
+  border-radius: 10px;
+  transition-duration: 0.4s;
+}
+
+.primaryBtn:hover {
+  background: #4e96a1;
+  cursor: pointer;
+}
+
+.primaryBtn:active {
+  font-size: 16px;
+  background: #458993;
+}
